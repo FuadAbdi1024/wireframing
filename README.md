@@ -80,3 +80,35 @@ High-fidelity wireframes are **detailed and realistic** representations of the f
 This element shows **interactive features** such as forms, buttons, sliders, or search bars — even if they’re not yet functional in the wireframe stage.
 
 **Example:** Including a login form with fields for email and password, along with a “Submit” button, demonstrates how users will interact with the system.
+
+## 🛠️ Popular Wireframing Tools
+
+There are many tools available for creating wireframes, each offering unique features for different stages of the design process. Here are some widely used wireframing tools:
+
+- **Figma**
+- **Adobe XD**
+- **Sketch**
+- **Balsamiq**
+- **Wireframe.cc**
+- **Lucidchart**
+- **Pen & Paper** (for quick brainstorming)
+
+---
+
+### ⭐ Recommended Tool: Figma
+
+[Figma](https://figma.com) is a powerful, browser-based design and prototyping tool that's highly favored by UI/UX designers, especially for wireframing.
+
+#### 🔍 Key Features:
+- **Real-time collaboration:** Work on wireframes with teammates live — perfect for remote teams.
+- **Cloud-based access:** No installation needed — access from anywhere, on any device.
+- **Reusable components:** Build consistent designs using components and design systems.
+- **Interactive prototypes:** Quickly turn wireframes into clickable demos for user testing.
+- **Version control:** Automatically saves version history, so you never lose your progress.
+
+#### 💡 Why Figma for Wireframing?
+- Simple drag-and-drop interface ideal for both **low-fidelity** and **high-fidelity** wireframes.
+- Saves time through pre-built UI kits and templates.
+- Seamless transition from wireframing to full UI design and prototyping in one tool.
+
+> ✨ Figma makes wireframing faster, more collaborative, and more accessible — especially for beginner and professional designers alike.
