@@ -137,3 +137,33 @@ Wireframing helps translate user stories or business requirements into tangible 
 
 **Example:**  
 A user story that says *“As a user, I want to search for bookings by date”* becomes clearer when visualized in a wireframe with a search bar, calendar input, and search button.
+## 🧠 Real-World Scenario: Wireframing Uncovers Usability Issues
+
+### 📍 Scenario: Hotel Booking Platform Checkout Flow
+
+During the wireframing phase of a **hotel booking platform**, the design team created a low-fidelity wireframe for the **checkout process**. The goal was to let users review booking details and enter payment information in one seamless screen.
+
+### 🚩 Usability Issues Identified:
+When stakeholders and test users reviewed the wireframe, several key issues became immediately clear:
+- The **booking summary** was placed below the payment form, making users scroll to confirm their selections.
+- There was **no clear visual confirmation** that the booking was complete after payment.
+- The **“Pay Now” button** was too close to the “Cancel” button, risking accidental clicks.
+
+### 🛠️ How the Issues Were Resolved:
+- The booking summary was moved to the **top of the page**, making it visible before payment.
+- A **confirmation screen wireframe** was added, with clear success messaging and booking reference details.
+- Buttons were **spaced apart** and color-coded to reduce click errors.
+
+### ✅ Impact on the Final Product:
+These changes resulted in:
+- **Reduced user confusion** during checkout
+- **Fewer customer support requests** related to booking confirmation
+- **Improved task completion rate** in user testing by 30%
+
+---
+
+### 🎯 Conclusion: The Role of Wireframing
+
+This example shows how wireframing can uncover **critical UX flaws** early in the design process — before time and resources are spent on development. By catching these issues upfront, the team was able to design a **cleaner, safer, and more user-friendly experience**.
+
+> 🔍 **Wireframing isn’t just about structure — it’s a tool for smarter, more thoughtful product design.**
